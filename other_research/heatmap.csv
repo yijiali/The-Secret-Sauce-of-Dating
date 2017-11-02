@@ -1,0 +1,50 @@
+Amount,Field,Field_p
+36,Law ,Law 
+21,Law ,Business
+40,Law ,Social Science
+5,Law ,Arts
+3,Law ,Engineering
+8,Law ,Liberal Arts
+9,Law ,Natural Science
+40,Social Science,Law 
+76,Social Science,Social Science
+135,Social Science,Business
+13,Social Science,Arts
+43,Social Science,Engineering
+23,Social Science,Liberal Arts
+44,Social Science,Natural Science
+7,Natural Science,Law 
+44,Natural Science,Social Science
+56,Natural Science,Business
+8,Natural Science,Arts
+21,Natural Science,Engineering
+8,Natural Science,Liberal Arts
+67,Natural Science,Natural Science
+5,Engineering,Law 
+43,Engineering,Social Science
+15,Engineering,Business
+5,Engineering,Arts
+15,Engineering,Engineering
+15,Engineering,Liberal Arts
+21,Engineering,Natural Science
+8,Liberal Arts,Law 
+23,Liberal Arts,Social Science
+27,Liberal Arts,Business
+5,Liberal Arts,Arts
+12,Liberal Arts,Engineering
+6,Liberal Arts,Liberal Arts
+14,Liberal Arts,Natural Science
+21,Business,Law 
+135,Business,Social Science
+67,Business,Business
+18,Business,Arts
+15,Business,Engineering
+27,Business,Liberal Arts
+56,Business,Natural Science
+5,Arts,Law 
+13,Arts,Social Science
+18,Arts,Business
+1,Arts,Arts
+5,Arts,Engineering
+5,Arts,Liberal Arts
+8,Arts,Natural Science

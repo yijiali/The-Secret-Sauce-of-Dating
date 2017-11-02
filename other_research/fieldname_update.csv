@@ -1,0 +1,545 @@
+iid,field_cd
+1,Law
+2,Law
+3,Natural Science/Medical
+4,Law
+5,Law
+6,Law
+7,Law
+8,Social Science
+9,Social Science
+10,Social Science
+11,Business/Finance
+12,Law
+13,Law
+14,Law
+15,Law
+16,Business/Finance
+17,Social Science
+18,Business/Finance
+19,Business/Finance
+20,Business/Finance
+21,Engineering
+22,Social Science
+23,Social Science
+24,Social Science
+25,Social Science
+26,Social Science
+27,Social Science
+28,Social Science
+29,Social Science
+30,Law
+31,Law
+32,Social Science
+33,Social Science
+34,Business/Finance
+35,Natural Science/Medical
+36,Natural Science/Medical
+37,Social Science
+38,Law
+39,Law
+41,Law
+42,Engineering
+43,Business/Finance
+44,Social Science
+45,Business/Finance
+46,Business/Finance
+47,Business/Finance
+48,Arts
+49,Business/Finance
+50,Law
+51,Law
+52,Law
+53,Natural Science/Medical
+54,Business/Finance
+55,Law
+56,Social Science
+57,Social Science
+60,Social Science
+61,Liberal Arts
+62,Law
+63,Law
+64,Social Science
+65,Social Science
+66,Business/Finance
+67,Law
+68,Liberal Arts
+69,Business/Finance
+70,Business/Finance
+71,Law
+72,Engineering
+73,Business/Finance
+74,Engineering
+75,Law
+76,Liberal Arts
+77,Social Science
+78,Social Science
+79,Engineering
+80,Natural Science/Medical
+81,Liberal Arts
+82,Social Science
+83,Business/Finance
+84,Natural Science/Medical
+85,Social Science
+86,Social Science
+87,Social Science
+88,Social Science
+89,Business/Finance
+90,Natural Science/Medical
+91,Law
+92,Social Science
+93,Engineering
+94,Business/Finance
+95,Business/Finance
+96,Engineering
+97,Natural Science/Medical
+98,Social Science
+99,Law
+100,Business/Finance
+101,Business/Finance
+102,Natural Science/Medical
+103,Business/Finance
+104,Natural Science/Medical
+105,Law
+106,Law
+107,Liberal Arts
+108,Engineering
+109,Arts
+110,Arts
+111,Business/Finance
+112,Social Science
+113,Business/Finance
+114,Business/Finance
+115,Social Science
+116,Social Science
+117,Business/Finance
+119,Liberal Arts
+120,Liberal Arts
+121,Social Science
+122,Law
+123,Engineering
+124,Business/Finance
+125,Natural Science/Medical
+126,Liberal Arts
+127,Engineering
+128,Engineering
+129,Business/Finance
+130,Engineering
+131,Engineering
+132,Business/Finance
+133,Engineering
+134,Natural Science/Medical
+135,Social Science
+137,Business/Finance
+138,Business/Finance
+139,Engineering
+140,Business/Finance
+141,Business/Finance
+142,Social Science
+143,Law
+144,Natural Science/Medical
+145,Natural Science/Medical
+146,Liberal Arts
+147,Business/Finance
+148,Business/Finance
+149,Social Science
+150,Liberal Arts
+151,Social Science
+152,Social Science
+153,Liberal Arts
+154,Business/Finance
+155,Business/Finance
+156,Business/Finance
+157,Business/Finance
+158,Natural Science/Medical
+159,Natural Science/Medical
+160,Business/Finance
+161,Natural Science/Medical
+162,Natural Science/Medical
+163,Social Science
+164,Liberal Arts
+165,Social Science
+166,Business/Finance
+167,Natural Science/Medical
+168,Natural Science/Medical
+169,Natural Science/Medical
+170,Natural Science/Medical
+171,Business/Finance
+172,Business/Finance
+173,Natural Science/Medical
+174,Business/Finance
+175,Social Science
+176,Business/Finance
+177,Social Science
+178,Social Science
+179,Liberal Arts
+180,Business/Finance
+181,Natural Science/Medical
+182,Natural Science/Medical
+183,Social Science
+184,Business/Finance
+185,Natural Science/Medical
+186,Engineering
+187,Business/Finance
+188,Engineering
+189,Law
+190,Social Science
+191,Business/Finance
+192,Business/Finance
+193,Law
+194,Social Science
+195,Natural Science/Medical
+196,Liberal Arts
+197,Social Science
+198,Social Science
+199,Liberal Arts
+200,Business/Finance
+201,Business/Finance
+202,Natural Science/Medical
+203,Natural Science/Medical
+204,Business/Finance
+205,Natural Science/Medical
+206,Business/Finance
+207,Natural Science/Medical
+208,Natural Science/Medical
+209,Social Science
+210,Natural Science/Medical
+211,Social Science
+212,Business/Finance
+213,Social Science
+214,Natural Science/Medical
+215,Business/Finance
+216,Business/Finance
+217,Natural Science/Medical
+218,Natural Science/Medical
+219,Business/Finance
+220,Social Science
+221,Business/Finance
+222,Natural Science/Medical
+223,Liberal Arts
+224,Social Science
+225,Business/Finance
+226,Business/Finance
+227,Business/Finance
+228,Natural Science/Medical
+229,Natural Science/Medical
+230,Social Science
+231,Social Science
+232,Social Science
+233,Social Science
+234,Social Science
+235,Social Science
+236,Natural Science/Medical
+237,Liberal Arts
+238,Arts
+239,Natural Science/Medical
+240,Business/Finance
+241,Business/Finance
+242,Social Science
+243,Liberal Arts
+244,Business/Finance
+245,Liberal Arts
+246,Natural Science/Medical
+247,Natural Science/Medical
+248,Business/Finance
+249,Business/Finance
+250,Liberal Arts
+251,Liberal Arts
+252,Social Science
+253,Social Science
+254,Liberal Arts
+255,Natural Science/Medical
+256,Natural Science/Medical
+257,Social Science
+258,Social Science
+259,Natural Science/Medical
+260,Natural Science/Medical
+261,Natural Science/Medical
+262,Social Science
+263,Social Science
+264,Liberal Arts
+265,Law
+266,Liberal Arts
+267,Natural Science/Medical
+268,Natural Science/Medical
+269,Liberal Arts
+270,Natural Science/Medical
+271,Social Science
+272,Social Science
+273,Natural Science/Medical
+274,Social Science
+275,Engineering
+276,Natural Science/Medical
+277,Natural Science/Medical
+278,Engineering
+279,Natural Science/Medical
+280,Natural Science/Medical
+281,Social Science
+282,Engineering
+283,Engineering
+284,Business/Finance
+285,Engineering
+286,Natural Science/Medical
+287,Social Science
+288,Social Science
+289,Business/Finance
+290,Natural Science/Medical
+291,Natural Science/Medical
+292,Social Science
+293,Business/Finance
+294,Social Science
+295,Social Science
+296,Social Science
+297,Social Science
+298,Liberal Arts
+299,Social Science
+300,Social Science
+301,Social Science
+302,Social Science
+303,Social Science
+304,Social Science
+305,Social Science
+306,Social Science
+307,Social Science
+308,Social Science
+309,Social Science
+310,Engineering
+311,Business/Finance
+312,Arts
+313,Business/Finance
+314,Social Science
+315,Engineering
+316,Business/Finance
+317,Business/Finance
+318,Business/Finance
+319,Social Science
+320,Liberal Arts
+321,Business/Finance
+322,Social Science
+323,Engineering
+324,Social Science
+325,Social Science
+326,Social Science
+327,Social Science
+328,Social Science
+329,Social Science
+330,Engineering
+331,Social Science
+332,Social Science
+333,Business/Finance
+334,Business/Finance
+335,Social Science
+336,Arts
+337,Engineering
+338,Engineering
+341,Social Science
+342,Social Science
+343,Natural Science/Medical
+344,Social Science
+345,Natural Science/Medical
+347,Social Science
+348,Social Science
+349,Social Science
+350,Natural Science/Medical
+351,Social Science
+352,Social Science
+353,Social Science
+354,Social Science
+355,Social Science
+356,Social Science
+357,Social Science
+358,Business/Finance
+359,Liberal Arts
+360,Social Science
+361,Law
+362,Law
+363,Engineering
+364,Business/Finance
+365,Business/Finance
+366,Business/Finance
+367,Social Science
+368,Social Science
+369,Social Science
+370,Business/Finance
+371,Business/Finance
+372,Business/Finance
+373,Business/Finance
+374,Business/Finance
+375,Business/Finance
+376,Business/Finance
+377,Business/Finance
+378,Business/Finance
+379,Business/Finance
+380,Arts
+381,Arts
+382,Arts
+383,Social Science
+384,Social Science
+385,Social Science
+386,Social Science
+387,Social Science
+388,Social Science
+389,Law
+390,Social Science
+391,Liberal Arts
+392,Liberal Arts
+393,Liberal Arts
+394,Liberal Arts
+395,Liberal Arts
+396,Arts
+397,Law
+398,Business/Finance
+399,Business/Finance
+400,Business/Finance
+401,Business/Finance
+402,Natural Science/Medical
+403,Engineering
+404,Engineering
+405,Social Science
+406,Business/Finance
+407,Arts
+408,Social Science
+409,Engineering
+410,Business/Finance
+411,Business/Finance
+412,Business/Finance
+413,Business/Finance
+414,Business/Finance
+415,Business/Finance
+416,Social Science
+417,Social Science
+418,Law
+419,Social Science
+420,Social Science
+421,Social Science
+422,Business/Finance
+423,Business/Finance
+424,Engineering
+425,Business/Finance
+426,Business/Finance
+427,Social Science
+428,Business/Finance
+429,Business/Finance
+430,Social Science
+431,Social Science
+432,Social Science
+433,Arts
+434,Social Science
+435,Law
+436,Law
+437,Social Science
+438,Social Science
+439,Social Science
+440,Law
+441,Law
+442,Law
+443,Social Science
+444,Business/Finance
+445,Social Science
+446,Business/Finance
+447,Social Science
+448,Law
+449,Law
+450,Social Science
+451,Business/Finance
+452,Business/Finance
+453,Law
+454,Arts
+455,Natural Science/Medical
+456,Business/Finance
+457,Liberal Arts
+458,Business/Finance
+459,Business/Finance
+460,Liberal Arts
+461,Engineering
+462,Engineering
+463,Natural Science/Medical
+464,Business/Finance
+465,Liberal Arts
+466,Arts
+467,Business/Finance
+468,Social Science
+469,Social Science
+470,Natural Science/Medical
+471,Natural Science/Medical
+472,Engineering
+473,Natural Science/Medical
+474,Natural Science/Medical
+475,Social Science
+476,Social Science
+477,Engineering
+478,Social Science
+479,Social Science
+480,Engineering
+481,Social Science
+482,Business/Finance
+483,Social Science
+484,Arts
+485,Social Science
+486,Natural Science/Medical
+487,Liberal Arts
+488,Business/Finance
+489,Business/Finance
+490,Arts
+491,Business/Finance
+492,Natural Science/Medical
+493,Social Science
+494,Liberal Arts
+495,Arts
+496,Engineering
+497,Natural Science/Medical
+498,Natural Science/Medical
+499,Natural Science/Medical
+500,Natural Science/Medical
+501,Natural Science/Medical
+502,Engineering
+503,Natural Science/Medical
+504,Engineering
+505,Liberal Arts
+506,Natural Science/Medical
+507,Natural Science/Medical
+508,Natural Science/Medical
+509,Liberal Arts
+510,Business/Finance
+511,Engineering
+512,Arts
+513,Arts
+514,Social Science
+515,Liberal Arts
+516,Natural Science/Medical
+517,Arts
+518,Arts
+519,Social Science
+520,Social Science
+521,Social Science
+522,Law
+523,Social Science
+524,Natural Science/Medical
+525,Arts
+526,Social Science
+527,Social Science
+528,Social Science
+529,Engineering
+530,Engineering
+531,Engineering
+532,Engineering
+533,Engineering
+534,Engineering
+535,Natural Science/Medical
+536,Natural Science/Medical
+537,Engineering
+538,Engineering
+539,Law
+540,Engineering
+541,Engineering
+542,Engineering
+543,Engineering
+544,Engineering
+545,Engineering
+546,Business/Finance
+547,Business/Finance
+548,Business/Finance
+549,Business/Finance
+550,Business/Finance
+551,Business/Finance
+552,Arts
