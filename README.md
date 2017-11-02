@@ -74,6 +74,8 @@ Results:
 
 5. How can people, in general, identify their own type and their best match type?
 
+![image](pictures/Picture1.png)
+
 Description of the question:
 +	First, we applied K-means to divide participants into 7 clusters for each sex. In determining the number of clusters, we used results from a silhouette plot. 
 +	We tagged each cluster according to the average of each of the 26 personal characteristics, and then we determined the best matches between a given male cluster and a given female cluster. 
