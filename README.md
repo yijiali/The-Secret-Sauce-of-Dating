@@ -84,5 +84,9 @@ Description of the question:
 Results:
 +	On the basis of the mean of each characteristic (26 in total) for the seven clusters, we summarized each cluster’s personalities (exemplification). 
 
+![image](pictures/Picture2.png)
+
 +	 On the basis of the neural-network results, we found the following results:
+
+![image](pictures/Picture3.png)
 
