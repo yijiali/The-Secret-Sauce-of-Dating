@@ -1,0 +1,28 @@
+{% extends "header.html" %}
+
+{% block body %}
+
+<button type="button" class="btn btn-default" data-toggle="collapse" 
+		data-target="#demo">
+	How it works
+</button>
+<br>
+<div id="demo" class="collapse">
+<img  style="width: 700px; height: 400px" src="{{ url_for('static', filename='images/method2.jpg') }}">
+</div>
+<br>
+
+<div class="row" >
+	{% if gen %}
+	    <div class="col-xs-6 col-md-6" ><img  style="width: 498px; height: 718px" src="{{ url_for('static', filename='images/1w'+wo+'.jpg') }}"></div>
+	    <div class="col-xs-6 col-md-6" ><img  style="width: 498px; height: 718px" src="{{ url_for('static', filename='images/1m'+ta+'.jpg') }}"></div>
+    {% else %}
+	    <div class="col-xs-6 col-md-6" ><img  style="width: 498px; height: 718px" src="{{ url_for('static', filename='images/m'+wo+'.jpg') }}"></div>
+	    <div class="col-xs-6 col-md-6" ><img  style="width: 498px; height: 718px" src="{{ url_for('static', filename='images/w'+ta+'.jpg') }}"></div>
+    {% endif %}
+
+</div>
+<a href="/testagain/"><input style="margin-left: 45%" type="button" class="btn btn-default" name="Test Again" value="Test Again" ></a>
+
+
+{% endblock %}

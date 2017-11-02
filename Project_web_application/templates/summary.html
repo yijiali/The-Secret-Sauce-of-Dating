@@ -1,0 +1,14 @@
+{% extends "header2.html" %}
+
+{% block body %}
+<button type="button" class="btn btn-default" data-toggle="collapse" 
+		data-target="#demo">
+	Dataset
+</button>
+<br>
+<div id="demo" class="collapse">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtEZepfH6aid-Or9JYJ3M_AU3F2iUkARGosMa8afFwGWAZQyYQiQRHWW-8XmXvCugbMVUIbn0iJ0dP/pubhtml?widget=true&amp;headers=false" width=900px; height=600px></iframe>
+</div>
+<br>
+<img src="{{ url_for('static', filename='images/summary.jpg') }}">
+{% endblock %}

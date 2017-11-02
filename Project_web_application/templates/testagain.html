@@ -1,0 +1,249 @@
+{% extends "header.html" %}
+
+{% block body %}
+<form action="{{url_for('dashboard')}}" method="post" >
+	<label style="font-size: 20px; margin-left: 25%;font-family: Comic Sans MS, cursive, sans-serif">Assuming you are attending a speed dating event,</label>
+		<br>
+	<label style="font-size: 20px; margin-left: 25%;font-family: Comic Sans MS, cursive, sans-serif">please fill out the form to find out your type and your best match!</label><br>
+
+  <div class="form-group" style="width: 50%;margin-left: 25%">
+    <label>Gender</label>
+    <select class="form-control" name="Gender">
+	  <option>Female</option>
+	  <option>Male</option>
+	</select>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label for="exampleInputAge">Age</label>
+    <input type="number" class="form-control" id="exampleInputAge" placeholder="Age" name="Age">
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>Field of Study</label>
+    <select class="form-control" name="field">
+	  <option>Law</option>
+	  <option>Math</option>
+	  <option>Social Science, Psychologist</option>
+	  <option>Medical Science, Pharmaceuticals, and Bio Tech</option>
+	  <option>Engineering</option>
+	  <option>English/Creative Writing/ Journalism</option>
+	  <option>History/Religion/Philosophy</option>
+	  <option>Business/Econ/Finance</option>
+	  <option>Education, Academia</option>
+	  <option>Biological Sciences/Chemistry/Physics</option>
+	  <option>Social Work</option>
+	  <option>Undergrad/undecided</option>
+	  <option>Political Science/International Affairs</option>
+	  <option>Film</option>
+	  <option>Fine Arts/Arts Administration</option>
+	  <option>Languages</option>
+	  <option>Architecture</option>
+	  <option>Other</option>
+	</select>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>In general, how frequently do you go on dates</label>
+    <select class="form-control" name="dates">
+	  <option>Several times a week</option>
+	  <option>Twice a week</option>
+	  <option>Once a week</option>
+	  <option>Twice a month</option>
+	  <option>Once a month</option>
+	  <option>Several times a year</option>
+	  <option>Almost never</option>
+	</select>
+  </div>				  
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>How often do you go out (not necessarily on dates)?</label>
+    <select class="form-control" name="go out">
+	  <option>Several times a week</option>
+	  <option>Twice a week</option>
+	  <option>Once a week</option>
+	  <option>Twice a month</option>
+	  <option>Once a month</option>
+	  <option>Several times a year</option>
+	  <option>Almost never</option>
+	</select>
+  </div>
+  <label style="width: 50%; margin-left: 25%">Please choose activities that you are interested in</label>	
+  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="sports">
+	  Playing sports/ athletics
+	</label>
+  </div>
+  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="tvsports">
+	  Watching sports
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="exercising">
+	  Body building/exercising
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Dining">
+	  Dining out
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Museums">
+	  Visiting Museums
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Art" >
+	  Art
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Hiking">
+	  Hiking/camping
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Gaming">
+	  Gaming
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Dancing">
+	  Dancing/clubbing
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Reading">
+	  Reading
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="TV">
+	  Watching TV
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Theater">
+	  Theater
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Movies">
+	  Movies
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="concerts">
+	  Going to concerts
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Music">
+	  Listening to music
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Shopping">
+	  Shopping
+	</label>
+  </div>
+	  <div class="checkbox" style="width: 50%; margin-left: 25%">
+	<label>
+	  <input type="checkbox" value="1" name="Yoga">
+	  Yoga/meditation
+	</label>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>Please rate your opinion of your own Attractiveness, on a scale of 1-10?</label>
+    <select class="form-control" name="Attractiveness">
+	  <option>1</option>
+	  <option>2</option>
+	  <option>3</option>
+	  <option>4</option>
+	  <option>5</option>
+	  <option>6</option>
+	  <option>7</option>
+	  <option>8</option>
+	  <option>9</option>
+	  <option>10</option>
+	</select>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>Please rate your opinion of your own Sincerity, on a scale of 1-10?</label>
+    <select class="form-control" name="Sincerity">
+	  <option>1</option>
+	  <option>2</option>
+	  <option>3</option>
+	  <option>4</option>
+	  <option>5</option>
+	  <option>6</option>
+	  <option>7</option>
+	  <option>8</option>
+	  <option>9</option>
+	  <option>10</option>
+	</select>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>Please rate your opinion of your own IQ, on a scale of 1-10?</label>
+    <select class="form-control" name="IQ">
+	  <option>1</option>
+	  <option>2</option>
+	  <option>3</option>
+	  <option>4</option>
+	  <option>5</option>
+	  <option>6</option>
+	  <option>7</option>
+	  <option>8</option>
+	  <option>9</option>
+	  <option>10</option>
+	</select>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>Please rate your opinion of your own sense of humor, on a scale of 1-10?</label>
+    <select class="form-control" name="humor">
+	  <option>1</option>
+	  <option>2</option>
+	  <option>3</option>
+	  <option>4</option>
+	  <option>5</option>
+	  <option>6</option>
+	  <option>7</option>
+	  <option>8</option>
+	  <option>9</option>
+	  <option>10</option>
+	</select>
+  </div>
+  <div class="form-group" style="width: 50%; margin-left: 25%">
+    <label>Please rate your opinion of your own ambition, on a scale of 1-10?</label>
+    <select class="form-control" name="ambition">
+	  <option>1</option>
+	  <option>2</option>
+	  <option>3</option>
+	  <option>4</option>
+	  <option>5</option>
+	  <option>6</option>
+	  <option>7</option>
+	  <option>8</option>
+	  <option>9</option>
+	  <option>10</option>
+	</select>
+  </div>
+  <a href="/dashboard/"><input style="margin-left: 25%" type="submit" name="submit" value="Submit"></a>	 
+</form>
+
+
+{% endblock %}
